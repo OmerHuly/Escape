@@ -4,8 +4,9 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
-Content\StarterContent
+Content/StarterContent
 *_BuiltData.uasset
 
 # VS Generated Files:
-*VC.db
+*VC.db*
+.vs
